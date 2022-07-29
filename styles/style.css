@@ -1,0 +1,16 @@
+
+/* css for the first pic that is on the side of the collage */
+.first-side-part-pic img{
+    height: 505px;
+}
+
+
+/* css for the three pics that are on the side of the collage */
+.side-part img{
+    height: 400px;
+}
+
+/* css for the pic that is on the bottom of the collage */
+.bottom-part-collage img{
+    height: 105px;
+}
