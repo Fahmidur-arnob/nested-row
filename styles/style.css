@@ -1,4 +1,10 @@
 
+/* css for the main div is written here  */
+.main-div{
+    margin-top: 11rem;
+}
+
+
 /* css for the first pic that is on the side of the collage */
 .first-side-part-pic img{
     height: 505px;
